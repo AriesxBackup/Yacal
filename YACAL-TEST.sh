@@ -69,6 +69,7 @@ echo "           🄸🄽🄸🅃🄸🄰🄻🄸🄽🄶 🄱🅈🄿🄰🅂�
 sleep 0.5
 #before Opening Game
 sleep 2
+cmatrix -m
 rm -rf /storage/emulated/0/.backups &>/dev/null 
 mkdir /storage/emulated/0/.backups &>/dev/null 
 chmod 000 /data/media/0/.backups &>/dev/null 
